@@ -1,0 +1,16 @@
+C:\Users\arian\source\repos\CarGallery\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\arian\source\repos\CarGallery\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\source\repos\CarGallery\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\arian\source\repos\CarGallery\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+C:\Users\arian\source\repos\CarGallery\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\arian\source\repos\CarGallery\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+C:\Users\arian\source\repos\CarGallery\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.json
+C:\Users\arian\source\repos\CarGallery\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.dev.json
+C:\Users\arian\source\repos\CarGallery\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\arian\source\repos\CarGallery\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\arian\source\repos\CarGallery\Infrastructure\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\arian\source\repos\CarGallery\Infrastructure\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\arian\source\repos\CarGallery\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
+C:\Users\arian\source\repos\CarGallery\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\arian\source\repos\CarGallery\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\arian\source\repos\CarGallery\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.genruntimeconfig.cache
